@@ -1,0 +1,20 @@
+QUESTION 1
+a=10;
+b=20;
+c=30;
+print(a,b,c);
+a1=a/10;
+b1=b*50;
+c1=c+60;
+print(a1,b1,c1);
+
+QUESTION 2
+a="Dhatchayini";
+print(a.replace("t","G"));
+
+QUESTION 3
+a=10;
+b=20.5;
+a=float(a);
+b=int(b);
+print(a,b);
